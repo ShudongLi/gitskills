@@ -2,4 +2,4 @@
 
 Creating a new branch is quick and simple.
 add merge
-test2 dev
+test2 dev 1
